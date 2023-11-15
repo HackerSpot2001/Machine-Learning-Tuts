@@ -1,0 +1,21 @@
+Machine Learning: Machine learning is a common type of artificial intelligence. 
+
+Types of ML:
+	Superwised Learning : Supervised machine learning is often used to create machine learning models used for prediction and classification purposes. 
+		Redgression
+		Classification
+		
+	UnSuperwised Learning: Unsupervised machine learning is often used by researchers and data scientists to identify patterns within large, unlabeled data sets quickly and efficiently. 
+		Clustering
+		Dimensionality Reduction
+		Anamoly Detection
+		Association
+		
+	Semi-Superwised Learning: Semi-supervised machine learning is often employed to train algorithms for classification and prediction purposes in the event that large volumes of labeled data is unavailable. 
+	Re-inforcement learning: Reinforcement learning is often used to create algorithms that must effectively make sequences of decisions or actions to achieve their aims, such as playing a game or summarizing an entire text. 
+
+Batch/Offline Learning : Batch learning represents the training of machine learning models in a batch manner.
+Online Learing: In online learning, the training happens in an incremental manner by continuously feeding data as it arrives or in a small group / mini batches. Each learning step is fast and cheap, so the system can learn about new data on the fly, as it arrives.
+	
+Instance Based Learning: Instance-based learning (also known as memory-based learning or lazy learning) involves memorizing training data in order to make predictions about future data points.
+Model based Learning: Model-based learning (also known as structure-based or eager learning) takes a different approach by constructing models from the training data that can generalize better than instance-based methods. 
